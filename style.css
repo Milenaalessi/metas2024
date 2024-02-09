@@ -4,12 +4,12 @@
 }
 /* SEÇÃO CABECALHO*/
 .cabecalho{
-    background-color: rgb(153, 6, 87);
+    background-color: rgb(170, 6, 96);
     color: rgb(255, 255, 255);
     font-size: 30px;
     font-family: 'Chonburi', cursive;
     display: center;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 .cabecalho-titulo{
@@ -29,7 +29,7 @@
 /* SEÇÃO TURMA*/
 
 .turma{
-    background-image: linear-gradient(rgb(221, 123, 230),rgba(5, 2, 27, 0.315));
+    background-image: rgba(221, 123, 230, 0.5);
     font-family: 'Kavoon', cursive;
     
 }
