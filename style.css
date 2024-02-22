@@ -12,8 +12,8 @@
 .cabecalho{
     background-color: rgb(170, 6, 96);
     color: rgb(255, 255, 255);
-    font-size: 30px;
-    font-family: 'Chonburi', cursive;
+    font-size: 25px;
+    font-family: Playfair Display, negrito;
     display: center;
     justify-content: center;
 }
