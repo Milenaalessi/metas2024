@@ -8,7 +8,7 @@
 /* SEÇÃO CABECALHO*/
 .cabecalho{
     background-color: rgb(170, 6, 96);
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-size: 25px;
     font-family: Playfair Display;
     display: center;
@@ -16,7 +16,7 @@
 }
 
 .cabecalho-titulo{
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: underline;
     margin-top: 20px;
     
