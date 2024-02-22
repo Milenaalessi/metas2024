@@ -5,7 +5,7 @@
 
 
 *{
-    padding: 0;
+    padding: 50;
     margin: 0;
 }
 /* SEÇÃO CABECALHO*/
@@ -13,7 +13,7 @@
     background-color: rgb(170, 6, 96);
     color: rgb(255, 255, 255);
     font-size: 25px;
-    font-family: Playfair Display, negrito;
+    font-family: Playfair Display;
     display: center;
     justify-content: center;
 }
