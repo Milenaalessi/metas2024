@@ -1,4 +1,6 @@
+:root{
 .botao{
+
    font-family: Lora;
    background-color: var(--botao-inativo);
    color: var(--branco)
@@ -20,4 +22,5 @@
 
 
 
+}
 }
