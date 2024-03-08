@@ -1,27 +1,26 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap')
-
-body{
-  background: radial-gradient(#ff000086,#478347b0,#9b9bd79c,white);
-  font-family: PlayFair;
+body{ font-family: Playfair+Display;
 }
+
+
 
 h1{
-  color: #00ffff;
-  font-size: 50px;
-  font-family: PlayFair;
-}
-
-h2{
-  color: #7fff00;
-  font-size: 42px;
-}
-
-h3{
-  font-size: 35px;
-}
-
-h4{
-  font-size: 30px;
-}
+    color: #ed23ff;
+    font-size: 50px;
+    font-family: Fjalla One;
+  }
+  
+  h2{
+    color: #000000;
+    font-size: 42px;
+  }
+  
+  h3{
+    font-size: 35px;
+  }
+  
+  h4{
+    font-size: 30px;
+  }
 
