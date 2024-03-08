@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 body{
-    background: radial-gradient(rgb(128, 0, 110), #57005f, rgb(46, 46, 46), black );
+    background: radial-gradient(rgb(119, 35, 108), #9f51a7, rgb(214, 163, 211), rgb(255, 255, 255));
      font-family: Playfair+Display;
 }
 
