@@ -1,42 +1,27 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap')
-body{ font-family: Playfair+Display;
+
+body{
+  background: radial-gradient(#ff000086,#478347b0,#9b9bd79c,white);
+  font-family: PlayFair;
 }
 
-
-
-
-
-
-/* SEÇÃO CABECALHO*/
-.cabecalho{
-    background-color: rgb(170, 6, 96);
-    color: rgb(0, 0, 0);
-    font-size: 25px;
-    font-family: Playfair Display;
-    display: center;
-    justify-content: center;
+h1{
+  color: #00ffff;
+  font-size: 50px;
+  font-family: PlayFair;
 }
 
-.cabecalho-titulo{
-    color: rgb(0, 0, 0);
-    text-decoration: center ;
-    margin-top: 20px;
-    
-    
+h2{
+  color: #7fff00;
+  font-size: 42px;
 }
 
-.cabecalho-itens{
-    display: center ;
-    padding: 20px 20px;
-
+h3{
+  font-size: 35px;
 }
 
-/* SEÇÃO TURMA*/
-
-.turma{
-    background-image: rgba(221, 123, 230, 0.5);
-    font-family: Playfair Display;
-    
+h4{
+  font-size: 30px;
 }
 
