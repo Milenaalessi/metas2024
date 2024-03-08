@@ -2,7 +2,7 @@
 
 :root {
    --cor-de-fundo: #000000;
-   --rosa: #ff4181;
+   --rosa: #b31aab;
    --branco: #FFFFFF;
    --botao-ativo: #3A375E;
    --botao-inativo: #3a375e80;
@@ -37,7 +37,7 @@ body {
 }
 
 .botao {
-   font-family: "Playfair", sans-serif;
+   font-family: "Playfair";
    background-color: var(--botao-inativo);
    color: var(--branco);
    display: flex;
